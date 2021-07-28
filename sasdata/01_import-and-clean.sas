@@ -63,6 +63,8 @@ data work.requested_vars;
 
 run;
 
+/* Adding the unique ID into the file. Not requested, but could be an issue later. */
+
 proc sql;
 	insert into 	work.requested_vars
 		set			variable_of_interest = "QUESTID2";
@@ -248,11 +250,3 @@ proc export
 run;
 
 /* Proceed to 02_make-plots.sas */
-
-proc sql;
-	select
-				distinct pnrnmlas1_cf
-	from
-				nsduh.nsduh_2015_2019;
-quit;
-
