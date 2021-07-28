@@ -1,0 +1,236 @@
+PNRNMLIF- ever used pain reliever not directed by DR 
+OXCNNMYR- used oxycontin not directed by DR past 12 months 
+OXCNMAGE- age 1st used oxycontin not directed by DR 
+OXCNNMYFU- year first used oxycontin not directed by DR 
+PNRNMREC- most recent pain reliever misuse (Recode) 
+PNRNMINIT- past year initiate for any pain reliever misuse 
+PNRNMAGE- age at 1st misuse for past year PNRLV initiates  
+PNRNMYFU- year first misused for past year pain reliver initiates  
+PNRNMMFU- month first misused for past year pain reliever initiates 
+PNRNM30D- used pain reliever not directed by dr past 30 days 
+PNRNM30FQ- # days used pain reliever not directed by DR past 30 days 
+PNRNM30ES- estimated #days used pain reliever not directed past 30 days 
+PNRWYNORX- used pain reliever without own rx past 12 months 
+PNRWYGAMT- used pain reliever in greater amounts than rx past 12 months 
+PNRWYOFTN- used pain reliever more often than rx past 12 months 
+PNRWYLNGR- used pain reliever longer than rx past 12 months 
+PNRWYOTWY- used pain reliever other way not directed past 12 months 
+PNRNMLAS1- last pain reliever used not directed by Dr past 12 months 
+PNRRSPAIN- used last pain reliever not directed to relieve pain 
+PNRRSRELX- used last pain reliever not directed to relax 
+PNRRSEXPT- used last pain reliever not directed to experiment 
+PNRRSHIGH- used last pain reliever not directed to get high 
+PNRRSSLEP- used last pain reliever not directed for sleep  
+PNRRSEMOT- used last pain reliever not directed for emotions 
+PNRRSDGFX- used last pain reliever not directed other drug effect 
+PNRRSHOOK- used last pain reliever not directed because hooked 
+PNRRSSOR- used last pain reliever not directed for other reason  
+PNRRSOTRS2 - reason used last pain reliver not directed 
+PNRRSMAIN- main reason used last pain reliever not directed 
+METHAMEVR- ever used methamphetamine 
+METHAMAGE- age 1st used methamphetamine  
+METHAMYFU- year first used methamphetamine 
+METHAMMFU- month first used methamphetamine  
+METHAMREC- time since last used methamphetamine 
+METHAMYFQ- total # days used methamphetamine past 12 months 
+METHDYSYR- # days used methamphetamine past 12 months 
+METHDYPMO- # days per month used methamphetamine in past 12 months 
+METHDYPWK- #days per week used methamphetamine past 12 months 
+METHAM30N- # days used methamphetamine past 30 days 
+METHAM30E- best estimate # days used meth past 30 days 
+METHAGLST- how old were you the last time used meth 
+METHYRLST- year of last methamphetamine use  
+METHMOLST- month of last meth use 
+COCEVER- ever used cocaine 
+COCAGE- age when first used cocaine  
+COCYFU- year of first cocaine use 
+COCMFU- month of first cocaine use 
+COCREC- time since last used cocaine 
+COCYRTOT- total #days used cocaine in past 12 months 
+CCDAYPYR- #days used cocaine past 12 months 
+CCDAYPMO- #days per month used cocaine past 12 months 
+CCDAYPWK- #days per week used cocaine past 12 months 
+COCUS30A- #days used cocaine past 30 days 
+CC30EST- best estimate # days used cocaine past 30 days 
+COCAGLST- how old were you the last time used cocaine 
+COCYLU- year of last cocaine use 
+COCMLU- month of last cocaine use  
+CRKEVER- ever used crack  
+CRKAGE- age when first used crack  
+CRKYFU- year of first crack use 
+CRKMFU- month of first crack use  
+CRAKREC- time since last used crack  
+CRKYRTOT- total # days used crack in past 12 months 
+CRDAYPYR- #days used crack past 12 months 
+CRDAYPMO- # days per month used crack past 12 months 
+CRDAYPWK- #days per week used crack past 12 months 
+CRKU30A- #days used crack past 30 days 
+CR30EST- best estimate # days used crack past 30 days 
+CRKAGLST- how old were you the last time used crack  
+CRKYLU-year of last crack use  
+CRKMLU- month of last crack use 
+HEREVER- ever used heroin 
+HERAGE- age when first used heroin 
+HERYFU- year of first heroin use 
+HERMFU- month of first heroin use 
+HERREC- time since last used heroin 
+HERYRTOT- total # days used heroin past 12 months 
+HRDAYPYR- #days used heroin past 12 months 
+HRDAYPMO- #days per month used heroin past 12 months 
+HRDAYPWK- # days per week used heroin past 12 months 
+HER30USE- #days used heroin past 30 days 
+HR30EST- best estimate #days used heroin in past 30 days 
+HERAGLST- how old were you the last time used heroin 
+HERYLU- year of last heroin use  
+HERMLU- month of last heroin use  
+MJEVER- ever used marijuana 
+MJAGE- age when first used marijuana 
+MJYFU- year of first marijuana use 
+MJMFU- month of first marijuana use 
+MJREC- time since last used marijuana 
+MJYRTOT- total # days used marijuana in past 12 months 
+MRDAYPYR- #days used marijuana in past 12 months 
+MRDAYPMO- #days per month used marijuana past 12 months 
+MRDAYPWK- #days per week used marijuana past 12 months 
+MJDAY30A- #days used marijuana past 30 days  
+MR30EST- best estimated #days used marijuana past 30 days 
+MRJYRBFR- use marijuana even once year before last 
+MRJAGLST- how old were you last time used marijuana 
+MRJYLU- year of last marijuana use  
+MRJMLU- month of last marijuana use  
+MRJLOTTM- was there a month or more when you spent a lot of time getting or using marijuana 
+MRJGTOVR- was there a month or more when you spent a lot of time getting over effects of marijuana used 
+MRJLIMIT- set limits on marijuana use past 12 months 
+MRJKPLMT- able to keep limits or used more marijuana intended in past 12 months 
+MRJNDMOR- needed more marijuana to get same effect in past 12 months 
+MRJLSEFX- using same amount of marijuana had less effect in past 12 months 
+MRJCUTDN- want to try to cut down/stop using marijuana past 12 months 
+MRJCUTEV- able to cut/stop using marijuana every time in past 12 months 
+MRJEMOPB- marijuana cause problems with emotions nerves past 12 months 
+MRJEMCTD- continued using marijuana despite emotion problems 
+MRJPHLPB- any physical problems caused or worsened by marijuana past 12 months  
+MRJPHCTD- continued to use marijuana despite physical problems 
+MRJLSACT- less activities because of marijuana use past 12 months 
+MRJSERPB- marijuana cause serious problems at home/work/school 
+MRJPDANG- using marijuana and do dangerous activities past 12 months 
+MRJLAWTR- using marijuana caused problems with law in past 12 months  
+MRJFMFPB- using marijuana caused problems with family/friends past 12 months 
+MRJFMCTD- continued to use marijuana despite problems with family/friends 
+COCLOTTM- was there a month or more when you spent a lot of time getting or using cocaine 
+COCGTOVR- was there a month or more when you spent a lot of time getting over effects of cocaine used 
+COCLIMIT- set limits on cocaine use past 12 months 
+COCKPLMT- able to keep limits or used more cocaine intended in past 12 months 
+COCNDMOR- needed more cocaine to get same effect in past 12 months 
+COCLSEFX- using same amount of cocaine had less effect in past 12 months 
+COCCUTDN- want to try to cut down/stop using cocaine past 12 months  
+COCCUTEV- able to cut/stop using cocaine every time in past 12 months 
+COCCUT1X- able to cut/stop using cocaine at least one time in past 12 months 
+COCFLBLU-during the past 12 months have you felt blue/down when you cut down cocaine use 
+COCWD2SX- had 2+ cocaine withdrawal symptoms in past 12 months 
+COCWDSMT- had 2 or more cocaine withdrawal symptoms at the same time that lasted longer than a day after stopped using/cut back cocaine use 
+COCEMOPB- cocaine caused problems with emotions/nerves past 12 months 
+COCEMCTD- continued to use cocaine despite emotional problems 
+COCPHLPB- any physical problems caused/worsened by cocaine past 12 months 
+COCPHCTD- continued to use cocaine despite physical problems 
+COCLSACT- did cocaine cause you to give up/spend less time doing important activities? 
+COCSERPB- cocaine caused serious problems at home/work/school past 12 months 
+COCPDANG-using cocaine and caused dangerous activities in past 12 months 
+COCLAWTR- using cocaine caused problems with law in the past 12 months 
+COCFMFPB- using cocaine caused problems with family/friends past 12 months 
+COCFMCTD- continued to use cocaine despite problems with friends/family 
+HERLOTTM- was there a month or more when you spent a lot of time getting or using heroin 
+HERGTOVR- was there a month or more when you spent a lot of time getting over effects of heroin used 
+HERLIMIT- set limits on heroin use past 12 months 
+HERKPLMT- able to keep limits or used more heroin intended in past 12 months 
+HERNDMOR- needed more heroin to get same effect in past 12 months 
+HERLSEFX- using same amount of heroin had less effect in past 12 months 
+HERCUTDN- want to try to cut down/stop using heroin past 12 months 
+HERCUTEV- able to cut/stop using heroin every time in past 12 months 
+HERCUT1X- able to cut/stop using heroin at least one time in past 12 months 
+HERWD3SX- had 3or more heroin withdrawal symptoms past 12 months 
+HERWDSMT- had 3+ heroin withdrawal symptoms longer than a day after in past 12 months 
+HEREMOPB- heroin caused problems with emotion/nerves past 12 months 
+HEREMCTD- continued to use heroin despite emotional problems 
+HERPHLPB- any physical problems that caused or worsened with heroin use in past 12 months 
+HERPHCTD- continued to use heroin despite physical problems 
+HERLSACT- less activities done because of heroin use the past 12 months 
+HERSERPB- heroin caused serious problems at home/work/school past 12 months 
+HERPDANG - using heroin and did dangerous activities past 12 months 
+HERLAWTR- using heroin caused problems with law in past 12 months 
+HERFMFPB- using heroin caused problems with family/friends past 12 months 
+HERFMCTD- continued to use heroin despite problems with family/friends 
+METHLOTTM- was there a month or more when you spent a lot of time getting or using meth 
+METHGTOVR- was there a month or more when you spent a lot of time getting over effects of meth used 
+METHLIMIT- set limits on meth use past 12 months 
+METHKPLMT- able to keep limits or used more meth intended in past 12 months 
+METHNDMOR- needed more meth to get same effect in past 12 months 
+METHLSEFX- using the same amount of meth had less effect in past 12 months 
+METHCUTDN- want to try to cut down/stop using meth in past 12 months 
+METHCUTEV- able to cut/stop using meth every time in past 12 months 
+METHCUT1X- able to cut down/stop using meth at least 1 time in past 12 months 
+METHFLBLU- when cut down on meth use, felt blue or down in past 12 months 
+METHWD2SX- had 2 or more meth withdrawal symptoms in past 12 months 
+METHWDSMT- had 2 or more meth withdrawal symptoms lasting longer than a day after stopped using 
+METHEMOPB- meth caused problems with emotions/nerves past 12 months 
+METHEMCTD- continued to use meth despite emotional problems 
+METHPHLPB- any physical problems cause by or worsened by meth use in past 12 months 
+METHPHCTD- continued to use meth despite physical problems 
+METHLSACT- less activities because of meth use in past 12 months 
+METHSERPB- meth caused serious problems at home/work/school past 12 months  
+METHPDANG- using meth and did dangerous activities past 12 months 
+METHLAWTR- using meth caused problems with law in past 12 months 
+METHFMFPB- using meth caused problems with family/friends past 12 months 
+METHFMCTD- continued to use meth despite problems with family/friends 
+PNRLLOTTM- was there a month or more when you spent a lot of time getting or using pain relievers 
+PNRLGTOVR- was there a month or more when you spent a lot of time getting over effects of pain relievers used 
+PNRLLIMIT- set limits on pain reliever use past 12 months 
+PNRLKPLMT- able to keep limits or used more pain relievers intended in past 12 months 
+PNRLNDMOR- needed more pain relievers to get the same effect in the past 12 months 
+PNRLLSEFX- using the same amount of pain reliever had less effects in past 12 months 
+PNRLCUTDN- want to try to cut down/stop using pain relievers in past 12 months 
+PNRLCUTEV- able to cut/stop using pain relievers every time you want in past 12 months 
+PNRLCUT1X- cut down/stop using pain reliever at least once in past 12 months 
+PNRLWD3SX- had 3 or more pain reliever withdrawal symptoms in past 12 months 
+PNRLWDSMT- had 3 or more pain reliever withdrawal symptoms last longer than a day in past 12 months  
+PNRLEMOPB- pain reliever caused problems with emotion/nerves past 12 months 
+PNRLEMCTD- continued to use pain relievers despite emotional problems 
+PNRLPHLPB- any physical problems caused or worsened by pain relievers in past 12 months 
+PNRLPHCTD- continued to use pain relievers despite physical problems 
+PNRLLSACT- less activities performed because of pain reliever use in past 12 months 
+PNRLSERPB- pain reliever caused severe problems at home/work/school past 12 months 
+PNRLPDANG- using pain reliever and did dangerous activity in past 12 months 
+PNRLLAWTR - using pain reliever caused problems with law in past 12 months 
+PNRLFMFPB- using pain reliever caused problems with family/friends in past 12 months  
+PNRLFMCTD- continued to use pain reliever despite problems with family/friends  
+IRSEX- gender  
+NEWRACE2- race  
+AGE2- final edited age 
+PDEN10- population density 
+COUTYP4- metro/non metro area   
+AGE2- final edited age 
+SERVICE- ever been in the us armed forces 
+MILSTAT- current military status 
+ACTDEVER- ever on active duty in US military/reserv 
+HEALTH- overall health 
+SPEAKENGL- how well speak English 
+IRSEX- gender  
+IREDUHIGHST2- education status 
+NEWRACE2- race  
+WRKSTATWK2- work situation past week  
+WRKDHRSWK2- how many hours worked last week  
+WRK35WKUS- usually work 35 or more hours per week  
+WRKRSNNOT- reason for not working at job past week  
+WRKRSNJOB- reason for not having a job past week  
+WRKDRGPOL- workplace have written policy drug/alcohol use  
+WRKTSTALC- workplace tests for alcohol usage 
+WRKTSTDRG- workplace tests for drug usage 
+WRKTSTHIR- test for dug/alc as hiring process 
+WRKTSTRDM- test on random basis  
+IRPINC3- recode total income 
+IRFAMIN3- recode total family income  
+INCOME- total family income recode 
+PDEN10- population density  
+COUTYP4- county metro or nonmetro status  
+ANALWT_C- fin prsn-level sample weight  
+VESTR- analysis stratum  
+VEREP- analysis replicate 
