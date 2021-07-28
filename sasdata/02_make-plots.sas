@@ -42,6 +42,7 @@ quit;
 /* Setting orientation to landscape so we have more width. */
 
 options orientation = landscape;
+ods graphics on / width = 20in length = 10in;
 
 /* Open the PDF destination */
 

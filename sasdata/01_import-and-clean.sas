@@ -227,7 +227,6 @@ run;
 options compress = yes;
 
 data nsduh.nsduh_2015_2019;
-	set nsduh.nsduh_2015_2019;
 	retain QUESTID2;
 	set work.nsduh_combined (drop = origin pnrnmlast pnrnmlas1 pnrnmlas1_c);
 run;
